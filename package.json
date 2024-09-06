@@ -1,0 +1,16 @@
+{
+  "name": "dnd-session-gen",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@becomposable/client": "^0.30.1",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
