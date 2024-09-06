@@ -211,7 +211,8 @@ async function playGame(plan: ContentObject<any>, options?: BaseOptions) {
             campaignId: plan.properties.campaignId,
             sessionNumber: plan.properties.sessionNumber,
             summary: play.result.summary,
-        }
+        },
+        text: play.result.summary,
     });
 
     console.log("Session summary saved!", sess.id)

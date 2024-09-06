@@ -1,4 +1,4 @@
-# LLM-powered Dungeon & Dragons Session Generator & Simulator
+# LLM-powered Dungeons & Dragons Session Generator & Simulator
 
 ## Description
 
